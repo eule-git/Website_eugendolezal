@@ -19,6 +19,7 @@ removePathAccents: true
 
 de:
   languageCode: de
+  weight: 1
   contentDir: content/de
   title: Eugen Dolezal | Sozialethiker und Theologe
   params:
@@ -31,6 +32,7 @@ de:
 
  en:
   languageCode: en-us
+  weight: 2
   contentDir: content/en
   title: Eugen Dolezal | Ethicist and Theologian
   params:
