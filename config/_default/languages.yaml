@@ -3,20 +3,20 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-#de:
+de:
   languageCode: de
   contentDir: content/de
-  title: Eugen Dolezal | Sozialethiker und Theologe
-  params:
-    description: Persönliche Website von Eugen R. Dolezal
-  menu:
-    main:
-      - name: Über mich
-        url: '#about'
-        weight: 1
-      - name: English
-        url: /en/
-        weight: 99
+#  title: Eugen Dolezal | Sozialethiker und Theologe
+#  params:
+#    description: Persönliche Website von Eugen R. Dolezal
+#  menu:
+#    main:
+#      - name: Über mich
+#        url: '#about'
+#        weight: 1
+#      - name: English
+#        url: /en/
+#        weight: 99
 
 # Uncomment the lines below to configure your website in a second language.
  en:
@@ -24,12 +24,12 @@
   contentDir: content/en
   title: Eugen Dolezal | Ethicist and Theologian
   params:
-    description: "Personal Website of Eugen R. Dolezal."
+    description: "Personal Website of Eugen R. Dolezal"
   menu:
     main:
       - name: About
         url: '#about'
         weight: 1
-      - name: Deutsch
+#      - name: Deutsch
           url: /de/
           weight: 99
