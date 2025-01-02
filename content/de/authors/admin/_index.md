@@ -35,7 +35,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9914-3073
 
- interests:
+interests:
   - Künstliche Intelligenz
   - Neurotechnologien
   - Human Enhancement

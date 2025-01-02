@@ -3,7 +3,7 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-de:
+#de:
   languageCode: de
   contentDir: content/de
 
@@ -20,6 +20,9 @@ de:
       - name: Über mich
         url: '#about'
         weight: 1
+      - name: English
+          url: /en/
+          weight: 99
 
  en:
   languageCode: en-us
@@ -32,3 +35,44 @@ de:
       - name: About
         url: '#about'
         weight: 1
+      Deine aktuelle languages.yaml sieht schon ziemlich gut aus. Um die Sprachumschaltung korrekt anzuzeigen, müssen einige Ergänzungen vorgenommen werden. Hier ist die angepasste Version:
+Angepasste languages.yaml
+
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: true  # Erfordert, dass die Standardsprache in einem Unterordner serviert wird
+
+languages:
+  de:
+    languageCode: de
+    contentDir: content/de
+    title: Eugen Dolezal | Sozialethiker und Theologe
+    params:
+      description: Persönliche Website von Eugen R. Dolezal
+    menu:
+      main:
+        - name: Über mich
+          url: '#about'
+          weight: 1
+        - name: English
+          url: /en/
+          weight: 99
+
+  en:
+    languageCode: en-us
+    contentDir: content/en
+    title: Eugen Dolezal | Ethicist and Theologian
+    params:
+      description: "Personal Website of Eugen R. Dolezal."
+    menu:
+      main:
+        - name: About
+          url: '#about'
+          weight: 1
+        - name: Deutsch
+          url: /de/
+          weight: 99
