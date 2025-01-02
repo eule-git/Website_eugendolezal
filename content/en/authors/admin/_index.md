@@ -13,13 +13,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Universitätsassistent
+role: Pre-Doc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Universität Wien
+  - name: University of Vienna
     url: https://se-ktf.univie.ac.at/ueber-uns/team/eugen-dolezal/
-  - name: Universität Graz
+  - name: University of Graz
     url: https://ethik.uni-graz.at/de/ueber-das-institut/eugen-dolezal/
 
 # Social network links
@@ -35,9 +35,9 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9914-3073
 
-# interests:
-  - Künstliche Intelligenz
-  - Neurotechnologien
+ interests:
+  - Artificial Intelligence
+  - Neurotechnologies
   - Human Enhancement
 
 education:
