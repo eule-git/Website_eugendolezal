@@ -7,7 +7,7 @@ first_name: Eugen R.
 last_name: Dolezal
 
 # Status emoji
-status:
+# status:
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -102,7 +102,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+# skills:
   - name: Technical Skills
     items:
       - name: Python
@@ -134,7 +134,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
+# languages:
   - name: English
     percent: 100
   - name: Chinese
@@ -146,7 +146,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+# awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
