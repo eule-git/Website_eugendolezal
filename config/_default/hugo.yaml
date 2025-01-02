@@ -16,32 +16,6 @@ defaultContentLanguage: de
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
-
-de:
-  languageCode: de
-  weight: 1
-  contentDir: content/de
-  title: Eugen Dolezal | Sozialethiker und Theologe
-  params:
-    description: Persönliche Website von Eugen R. Dolezal
-  menu:
-    main:
-      - name: Über mich
-        url: '#about'
-        weight: 1
-
- en:
-  languageCode: en-us
-  weight: 2
-  contentDir: content/en
-  title: Eugen Dolezal | Ethicist and Theologian
-  params:
-    description: "Personal Website of Eugen R. Dolezal."
-  menu:
-    main:
-      - name: About
-        url: '#about'
-        weight: 1
         
 ############################
 ## ADVANCED
