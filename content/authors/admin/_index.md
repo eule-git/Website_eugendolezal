@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eugen Dolezal
+title: Eugen R. Dolezal
 
 # Full name (for SEO)
 first_name: Eugen R.
@@ -35,10 +35,11 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9914-3073
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+Interessen:
+  - Künstliche Intelligenz
+  - Neurotechnologien
+  - Human Enhancement
 
 education:
   - area: PhD Artificial Intelligence
@@ -170,6 +171,6 @@ work:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Über mich
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Herzlich Wilkommen auf meiner persönlichen Webseite. Ich arbeite als Theologe und Sozialethiker an den Universitäten Wien und Graz. Meine Forschungsinteressen liegen im Bereich der Technikethik, mit einem Fokus auf Künstliche Intelligenz, Neurotechnologien und Human Enhancement. Besonders relevant sind für mich dabei das Mensch-Maschine-Verhältnis und die Transformationsprozesse, denen Einzelne sowie die Gesellschaft dadurch ausgesetzt sind.
