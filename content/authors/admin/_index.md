@@ -23,7 +23,7 @@ role: Universitätsassistent
 organizations:
   - name: Universität Wien
     url: https://se-ktf.univie.ac.at/ueber-uns/team/eugen-dolezal/
-    - name: Universität Graz
+  - name: Universität Graz
     url: https://ethik.uni-graz.at/de/ueber-das-institut/eugen-dolezal/
 
 # Social network links
